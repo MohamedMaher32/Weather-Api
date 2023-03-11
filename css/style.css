@@ -124,7 +124,7 @@ input{
 }
 /* ********************************************************************************************* */
 footer button{
-    right: 13px;
+    right: 11px;
     top: 0;
     background-color: rgb(48,62,143) !important;
     transition: all 0.5s;
